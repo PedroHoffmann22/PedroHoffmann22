@@ -1,5 +1,5 @@
 # 👦 Sobre Mim:
-Olá! Me chamo Pedro Henrique Hoffmann!<br>Tenho 16 anos.<br>Nasci em Florianópolis e moro em São Pedro de Alcântara.<br><br> - Características:<br>     - Facilidade para trabalhar em equipe. <br>     - Boa comunicação. <br>     - Minucioso. <br>     - Proativo.<br><br>- FORMAÇÃO <br>Ensino Médio Integrado – Técnico em Desenvolvimento de Sistemas. <br>Escola S Sesi/Senai. Janeiro de 2022 - Dezembro de 2024. <br> <br><br>
+𝓞𝓵𝓪́! 𝓜𝓮 𝓬𝓱𝓪𝓶𝓸 𝓟𝓮𝓭𝓻𝓸 𝓗𝓮𝓷𝓻𝓲𝓺𝓾𝓮 𝓗𝓸𝓯𝓯𝓶𝓪𝓷𝓷!<br>𝓣𝓮𝓷𝓱𝓸 16 𝓪𝓷𝓸𝓼<br>𝓝𝓪𝓼𝓬𝓲 𝓮𝓶 𝓕𝓵𝓸𝓻𝓲𝓪𝓷𝓸́𝓹𝓸𝓵𝓲𝓼 𝓮 𝓶𝓸𝓻𝓸 𝓮𝓶 𝓢𝓪̃𝓸 𝓟𝓮𝓭𝓻𝓸 𝓭𝓮 𝓐𝓵𝓬𝓪̂𝓷𝓽𝓪𝓻𝓪.<br><br> - 𝕮𝖆𝖗𝖆𝖈𝖙𝖊𝖗𝖎́𝖘𝖙𝖎𝖈𝖆𝖘:<br>     - 𝓕𝓪𝓬𝓲𝓵𝓲𝓭𝓪𝓭𝓮 𝓹𝓪𝓻𝓪 𝓽𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓻 𝓮𝓶 𝓮𝓺𝓾𝓲𝓹𝓮. <br>    - 𝓑𝓸𝓪 𝓬𝓸𝓶𝓾𝓷𝓲𝓬𝓪𝓬̧𝓪̃𝓸. <br>     - 𝓜𝓲𝓷𝓾𝓬𝓲𝓸𝓼𝓸. <br>     - 𝓟𝓻𝓸𝓪𝓽𝓲𝓿𝓸.<br><br>- 𝓕𝓞𝓡𝓜𝓐𝓒̧𝓐̃𝓞 <br>𝓔𝓷𝓼𝓲𝓷𝓸 𝓜𝓮́𝓭𝓲𝓸 𝓘𝓷𝓽𝓮𝓰𝓻𝓪𝓭𝓸 – 𝓣𝓮́𝓬𝓷𝓲𝓬𝓸 𝓮𝓶 𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓶𝓮𝓷𝓽𝓸 𝓭𝓮 𝓢𝓲𝓼𝓽𝓮𝓶𝓪𝓼.<br>𝓔𝓼𝓬𝓸𝓵𝓪 𝓢 𝓢𝓮𝓼𝓲/𝓢𝓮𝓷𝓪𝓲. 𝓙𝓪𝓷𝓮𝓲𝓻𝓸 𝓭𝓮 2022 - 𝓓𝓮𝔃𝓮𝓶𝓫𝓻𝓸 𝓭𝓮 2024.<br> <br><br>
 
 
 ## 🤳 Rede Social:
@@ -15,11 +15,7 @@ Olá! Me chamo Pedro Henrique Hoffmann!<br>Tenho 16 anos.<br>Nasci em Florianóp
 ## 🏆 Troféus do GitHub:
 ![](https://github-profile-trophy.vercel.app/?username=PedroHoffmann22&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Repositório mais contribuído:
-![](https://github-contributor-stats.vercel.app/api?username=PedroHoffmann22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=PedroHoffmann22&icon=5&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![200w](https://github.com/PedroHoffmann22/PedroHoffmann22/assets/131174786/e0dfd3cd-0153-4e36-ace8-15c3ed21b233)
