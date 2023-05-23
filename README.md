@@ -1,4 +1,7 @@
-![github-header-image](https://github.com/PedroHoffmann22/PedroHoffmann22/assets/131174786/5a316044-fe4e-4dd7-85d4-1a369b52be0f)
+![github-header-image (6)](https://github.com/PedroHoffmann22/PedroHoffmann22/assets/131174786/afe16187-8781-47cb-bd04-e641c2490a01)
+
+
+
 
 
 # 👦 Sobre Mim:
