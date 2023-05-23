@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/PedroHoffmann22/PedroHoffmann22/assets/131174786/5a316044-fe4e-4dd7-85d4-1a369b52be0f)
+
+
 # 👦 Sobre Mim:
 Olá, me chamo Pedro Henrique Hoffmann!<br>Tenho 16 anos<br>Nasci em Florianópolis e moro em São Pedro de Alcântara<br><br> -
 Características<br>-  Facilidade para trabalhar em equipe. <br>- Boa comunicação. <br>- Minucioso<br>- Proativo<br><br>- Formação<br>
